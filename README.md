@@ -14,16 +14,17 @@
 ## 二、数据集下载
      本仓库可以选用VOC2012、VOC2007或者coco2017进行训练来验证
      voc2012和voc2007数据集的下载地址为：
-     coco2017数据集得下载地址为：链接：https://pan.baidu.com/s/1xl3XFzyCLBZSl6RjvnTHvg 提取码：68ux 
-     voc2012和voc2007数据集格式：  
-         voc2007  
-　　         Annotations(存放图片对应的xml)  
-　　         ImageSets  
-　　         JPEGImages(存放的图片)  
-     coco2017数据集格式:  
-         coco2017  
-　　        train2017  
-　　        val2017  
-　　           annotations  
-　　　　          instances_train2017.json  
-　　　　          instances_val2017.json  
+     coco2017数据集得下载地址为：链接：https://pan.baidu.com/s/1xl3XFzyCLBZSl6RjvnTHvg 提取码：68ux   
+     voc2012和voc2007数据集格式：    
+         |--voc2007      
+　　          |--Annotations(存放图片对应的xml)    
+　　          |--ImageSets    
+　　          |--JPEGImages(存放的图片)    
+     coco2017数据集格式:    
+          |--coco2017    
+　　         |--train2017    
+　　         |--val2017    
+　　            |--annotations    
+　　　　           |--instances_train2017.json    
+　　　　           |--instances_val2017.json    
+## 三、
